@@ -2,7 +2,7 @@ package test
 
 import (
 	"testing"
-	"github.com/NETkiddy/cmq-go"
+	"github.com/yaoxingshuai/cmq-go"
 )
 
 var endpointTopic = "https://cmq-topic-sh.api.qcloud.com"
